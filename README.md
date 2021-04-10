@@ -28,3 +28,4 @@
   * Github Username: cadeburkett
 
   Deployed app: [https://cadeburkett.github.io/Weather-Dashboard]
+  Video demo: [https://drive.google.com/file/d/1edVwzbIVhXvo3Ac6P_q6o2eD89jSdmyy/view]
