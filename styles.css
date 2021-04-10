@@ -17,5 +17,7 @@ aside {
 
 .main {
     border-color: blue;
+    padding: 5px;
+    margin: 5px;
 }
 
