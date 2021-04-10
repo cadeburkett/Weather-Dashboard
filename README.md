@@ -3,6 +3,9 @@
   ## Description
   The Weather Dash app uses the OpenWeather API to access current weather info and display to the page. It also keeps track of recent searches on your page though local storage.
 
+  ![Screen Shot 2021-04-10 at 11 56 47](https://user-images.githubusercontent.com/71572375/114282035-8fe3af00-99f6-11eb-84b6-74f618a123f3.png)
+
+
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
