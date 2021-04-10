@@ -1,0 +1,21 @@
+header {
+    background-color: gray;
+    padding: 20px;
+    height: 150px;
+}
+
+.headerText {
+    padding: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+aside {
+    padding: 20px;
+    margin-left: 5px;
+}
+
+.main {
+    border-color: blue;
+}
+
